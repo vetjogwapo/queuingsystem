@@ -7,7 +7,7 @@ This amazing app is provided in open source. So, helpful contributions are highl
 ## ScreenShots
 
 
-| <img src="screenshots/login.jpg"  width="300"/> | <img src="screenshots/register.jpg" width="300"/>  |
+| <img src="screenshots/homepage.png"  width="300"/> | <img src="screenshots/studentlogin.png" width="300"/>  | <img src="screenshots/studentdashboard.png" width="300"/>  | <img src="screenshots/adminlogin.png" width="300"/>  | <img src="screenshots/admindashboard" width="300"/>  |
 
 
 ### :heart: Found this project useful?
