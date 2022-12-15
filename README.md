@@ -19,7 +19,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### Calachan Jovet, N.
 
-<a href="https://www.facebook.com/vetjogwapo/"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/vetjogwapo/"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/facebook-icon.png" width="60"></a>
 
 ## Getting Started
 
