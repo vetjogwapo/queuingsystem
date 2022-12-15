@@ -13,13 +13,13 @@ This amazing app is provided in open source. So, helpful contributions are highl
 
 ### :heart: Found this project useful?
 
-If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+If you found this project useful, then please consider giving it a :star: on Github and Follow me on my Social media account.
 
 ---
 
 ## Project Created & Maintained By
 
-### Siddharth Chopra
+### Calachan Jovet, N.
 
 <a href="https://twitter.com/sidd_art_"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://linkedin.com/in/siddharthchopra1/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
